@@ -1,0 +1,14 @@
+VARIABLES
+	
+	Datos personales del viajero
+	
+String nombre = ();
+int edad = ();
+int peso = ();
+int estatura = ();
+
+	Datos referentes al viajero
+	
+Double distancia = 0d;
+String destino = ("");
+String opcion = ();
